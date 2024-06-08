@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-StringTables
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-StringTables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c558c7fd11d37f047a1890d791dbc685
+  m_SerializeEntries:
+  - m_GUID: 87a330d7dcf1a884590b283fb4e2b79c
+    m_Address: UI_Settings_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c6b46168c0a7aa47b7ae3c549b25441
+    m_Address: UI_Settings_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0af5703172538c342b78857ed5f4df4d
+    m_Address: UI_Controller_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0f2f2acaea550fc40b2b50030db7874b
+    m_Address: UI_Controller_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e155dc77b9c2fe34094ebbbdbb597b20
+    m_Address: UI_Audio_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dd3b71a7336d14b4988d637db58eaafe
+    m_Address: UI_Audio_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8e4d4ce52bca7704399e2c28593c075e
+    m_Address: UI_Pause_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 62c507e9060bfa849af99b4ac6372abe
+    m_Address: UI_Pause_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 5a7a4a179f81d0b4b941f9301ca79baf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f0d94a1f15c923d45a047731f35750b5, type: 2}
+    - {fileID: 11400000, guid: 039f7df3df9d7694fb55c7139355c6fe, type: 2}

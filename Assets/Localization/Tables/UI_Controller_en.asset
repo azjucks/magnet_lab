@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Controller_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0893f70c53257934bb994801441b717d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7434760192
+    m_Localized: Attract/Repulse object
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223722434560
+    m_Localized: Mouvements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260254822400
+    m_Localized: Attract/Repulse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 499112046592
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
